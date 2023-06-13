@@ -4,3 +4,6 @@ Some Description__
 Watch Tuto on youtube
 
 12:44
+
+##Local Development
+1.Open index.html in your browser
